@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about me
-permalink: /about/
+title: about
+permalink: /about me/
 ---
 
 A machine learning researcher.
