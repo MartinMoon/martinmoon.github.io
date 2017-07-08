@@ -1,10 +1,10 @@
 ---
 layout: page
 title: about
-permalink: /about me/
+permalink: /about/
 ---
 
-A machine learning researcher.
+A machine learning researcher. Lives in Vancouver.
 
 
 [jekyll-organization]: https://github.com/jekyll
